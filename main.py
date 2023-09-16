@@ -3,7 +3,7 @@ import boto3
 from datetime import datetime
 
 # code
-noOfDays=20
+noOfDays=90
 
 client=boto3.client('iam')
 unUsedUser=[]
