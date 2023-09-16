@@ -1,0 +1,2 @@
+Problem: deactivate the key of a user who's last update date is more than 10 days
+tech : boto3
